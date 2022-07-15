@@ -1,1 +1,7 @@
-# ia-2022
+# ai-2022-works
+
+## Works
+
+8 Puzzle Game
+
+Boat Puzzle Game
