@@ -1,4 +1,6 @@
-closed_nodes = set()
+#!/usr/bin/env python
+
+closed_nodes: set[str] = set()
 
 BLANK = "b"
 
